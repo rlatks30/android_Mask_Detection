@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1086098680622:android:12e61885abe6ab378a68bf",
         "android_client_info": {
-          "package_name": "com.inhatc.maskdetection"
+          "package_name": "org.tensorflow.lite.examples.detection"
         }
       },
       "oauth_client": [
